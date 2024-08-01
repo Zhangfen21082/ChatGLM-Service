@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t zhangxing123/chatgpt-data-app:2.0 .
